@@ -10,4 +10,5 @@ Requiments : es_extended,
 Setup
 
 FR: Glisse la ressource dans le dosser ressource et start la.
+
 EN: Drag the resource in resource folder and start it.
