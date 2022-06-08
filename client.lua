@@ -7,6 +7,8 @@ end)
 
 local pVeh = GetVehiclePedIsIn(pPed, false) 
 
+print('Created by EthicFps')
+
 Citizen.CreateThread(function()
     while true do 
         Citizen.Wait(2000)     
