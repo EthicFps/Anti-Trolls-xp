@@ -6,3 +6,5 @@ Requiments : es_extended,
               minimum 4iq
 
             
+
+Setup: Drag the resource in resource folder and start it
