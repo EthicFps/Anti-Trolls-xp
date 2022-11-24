@@ -1,4 +1,4 @@
-# Anti-Trolls-xp
+# Anti-Trolls-Fivem
 FR: Système pour empêcher les trolls en limitant les voitures a 90km/h et en les empêchant de frapper avant d'avoir un certain rank.
 EN: System to prevent trolls by limiting cars to 90km/h and preventing them from hitting before having a certain level.
 
